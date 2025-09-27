@@ -1,0 +1,24 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+*.sln
+*.csproj
+*.userprefs
+*.user
+*.suo
+*.cache
+
+# VS Code
+.vscode/
+
+# Android
+/[Ee]xported[Oo]bj/
+.sys/
